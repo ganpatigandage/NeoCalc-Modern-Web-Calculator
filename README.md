@@ -34,5 +34,5 @@ It features a **glassmorphism-inspired UI**, smooth animations, and real-time ca
 
 
 
-   <img width="593" height="865" alt="Screenshot 2025-10-23 233852" src="https://github.com/user-attachments/assets/5bb3bae0-fa1f-4852-923e-50607246904e" />
+   <img width="400" height="400" alt="Screenshot 2025-10-23 233852" src="https://github.com/user-attachments/assets/5bb3bae0-fa1f-4852-923e-50607246904e" />
 
