@@ -23,13 +23,6 @@ It features a **glassmorphism-inspired UI**, smooth animations, and real-time ca
 
 ---
 
-## 📸 Preview
-
-![NeoCalc Screenshot](./preview.png)  
-*(You can replace this with your actual screenshot file name if different)*
-
----
-
 ## 📂 Project Setup
 
 1. Clone the repository:
